@@ -78,6 +78,7 @@ module Madmin
           decimal: Fields::Decimal,
           enum: Fields::Enum,
           float: Fields::Float,
+          inet: Fields::String,
           integer: Fields::Integer,
           string: Fields::String,
           text: Fields::Text,
